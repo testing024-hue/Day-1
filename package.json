@@ -1,0 +1,27 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "learning react",
+  "main": "App.js",
+  "scripts": {
+    "start": "parcel",
+    "build": "build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/testing024-hue/Day-1.git"
+  },
+  "keywords": [
+    "kapil",
+    "react"
+  ],
+  "author": "kapil solanki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/testing024-hue/Day-1/issues"
+  },
+  "homepage": "https://github.com/testing024-hue/Day-1#readme",
+  "dependencies": {
+    "parcel": "^2.13.3"
+  }
+}
